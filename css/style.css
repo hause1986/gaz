@@ -182,14 +182,17 @@ a{
 	color: #000000;
 	text-align:center;
 }
+#table table td.status{
+	width: 65px;
+}
 
-#table table tr.completed{
+#table table tr.completed .status{
 	background-color:#98FB98;
 }
-#table table tr.atwork{
+#table table tr.atwork .status{
 	background-color:#FFD700;
 }
-#table table tr.refused{
+#table table tr.refused .status{
 	background-color:#FFA07A;
 }
 
