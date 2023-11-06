@@ -1,0 +1,16 @@
+body{
+	padding:0;
+	margin: 0;
+    background: #fff url(../img/body.jpg) 50% 0 no-repeat;
+    color: #aaaaab;
+    font: 14px/23px Arial,Helvetica,sans-serif;
+    position: relative;
+    min-width: 1152px;
+}
+#content{
+	margin:0 auto;
+	width:1152px;
+}
+
+
+/**/
