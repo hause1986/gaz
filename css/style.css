@@ -173,9 +173,10 @@ a{
 #table table td.id{
 	cursor:pointer;
 	font-weight: 600;
+	color: #2185c5;
 }
 #table table td.id:hover{
-	color: #2185c5;
+	color: #000000;
 }
 
 #table table td{
