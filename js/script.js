@@ -26,7 +26,7 @@ var setTable = function(){
 			'CLASS'	: 'drawing',
 		},
 		{
-			'NAME'	: 'Описани',
+			'NAME'	: 'Описание',
 			'CLASS'	: 'description',
 		},
 		{
