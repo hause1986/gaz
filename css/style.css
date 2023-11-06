@@ -180,10 +180,6 @@ a{
 #table table td{
 	padding:10px 5px;
 	color: #000000;
-}
-
-#table table td.status,
-#table table td.workshop{
 	text-align:center;
 }
 
