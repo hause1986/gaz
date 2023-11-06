@@ -7,31 +7,31 @@ var setTable = function(){
 		},
 		{
 			'NAME'	: 'Дата',
-			'CLASS'	: 'id',
+			'CLASS'	: 'data',
 		},
 				{
 			'NAME'	: 'Заказчик',
-			'CLASS'	: 'id',
+			'CLASS'	: 'order',
 		},
 		{
 			'NAME'	: 'Цех',
-			'CLASS'	: 'id',
+			'CLASS'	: 'workshop',
 		},
 		{
 			'NAME'	: '№ Детали',
-			'CLASS'	: 'id',
+			'CLASS'	: 'item',
 		},
 		{
 			'NAME'	: '№ Чертежа',
-			'CLASS'	: 'id',
+			'CLASS'	: 'drawing',
 		},
 		{
 			'NAME'	: 'Описани',
-			'CLASS'	: 'id',
+			'CLASS'	: 'description',
 		},
 		{
 			'NAME'	: 'Статус',
-			'CLASS'	: 'id',
+			'CLASS'	: 'status',
 		},
 	]
 	

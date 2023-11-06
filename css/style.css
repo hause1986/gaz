@@ -151,6 +151,7 @@ a{
 /**/
 #table{
 	background-color: #ffffff;
+	padding:30px;
 }
 #table table{
 	width:100%;	
